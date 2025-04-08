@@ -1,1 +1,1 @@
-.
+![6e3b60a3-1917-409d-8b9b-9af3d4c1137c.jpeg](src/main/resources/6e3b60a3-1917-409d-8b9b-9af3d4c1137c.jpeg)
