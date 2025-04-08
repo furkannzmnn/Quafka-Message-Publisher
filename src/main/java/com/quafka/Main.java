@@ -1,4 +1,4 @@
-package com.modulith;
+package com.quafka;
 
 import com.quafka.config.ConnectionConfig;
 import com.quafka.config.ConsumerConfig;
